@@ -1,11 +1,11 @@
 ---
-layout:       post
-title:        "yolo 环境搭建"
-author:       "VincentYoung"
+layout:       post
+title:        "yolo 环境搭建"
+author:       "VincentYoung"
 header-style: text
-catalog:      true
+catalog:      true
 tags:
-    - k230
+    - k230
 ---
 
 ## yolo 简介
